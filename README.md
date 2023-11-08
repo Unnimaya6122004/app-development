@@ -1,6 +1,6 @@
 # APP DEVELOPMENT
 <img src="https://github.com/AnjanaS2004/app-development
-images.app.goo.gl/Naq1uxrrCNxEDJ3f8" alt="Image Alt Text">
+images.app.goo.gl/Naq1uxrrCNxEDJ3f8">
 
 Problem statement-Creating a prototype for a web app to extract and populate details from resumes or CVs involves several components, including the user interface, backend processing, and integration with parsing algorithms.
 
