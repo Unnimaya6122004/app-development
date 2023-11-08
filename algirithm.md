@@ -1,4 +1,5 @@
-Algorithm: Simple Resume Parser
+Algorithm:
+Simple Resume Parser
 
 Input: Resume document in plain text format
 
